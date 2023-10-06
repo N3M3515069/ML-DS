@@ -1,2 +1,2 @@
 # ML-DS
-Uploading and updating the Jupyter notebook using waht i have learnt and learning
+Uploading and updating the Jupyter notebook using what I have learnt and learning
